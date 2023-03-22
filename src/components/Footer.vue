@@ -36,7 +36,7 @@ export default {
 <style>
 .footrrr {
   color: #3b3b3b;
-  margin-bottom: -100%;
+  margin-bottom: -110% !important;
 }
 
 .footSide {
@@ -47,7 +47,8 @@ export default {
 }
 
 .entireFooter {
-  margin-top: -4.5%;
+  margin-top: 0%;
+  margin-bottom: 0;
 }
 
 </style>
