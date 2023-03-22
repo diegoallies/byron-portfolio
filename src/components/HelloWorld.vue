@@ -42,7 +42,7 @@
         <!-- Google -->
         <a
           style="color: #dd4b39"
-          href="mailto:diegoallies27@gmail.com"
+          href="mailto:byron.moses1@gmail.com"
           role="button"
           class="imk"
           ><i class="fab fa-google fa-lg"></i>
@@ -52,7 +52,7 @@
 
         <a
           style="color: blue"
-          href="https://www.linkedin.com/in/diego-allies/"
+          href="https://www.linkedin.com/in/byron-moses/"
           role="button"
           class="imk"
           ><i class="fab fa-linkedin-in"></i>
@@ -61,7 +61,7 @@
         <!-- Github -->
         <a
           style="color: black"
-          href="https://github.com/diegoallies"
+          href="https://github.com/cyberbyron"
           role="button"
           class="imk"
           ><i class="fab fa-github"></i>
