@@ -1,4 +1,4 @@
-# diego-portfolio
+# byron-portfolio
 
 ## Project setup
 ```
